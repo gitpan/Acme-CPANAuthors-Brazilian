@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Acme-CPANAuthors-Brazilian
-version:             0.01
-abstract:            We are Brazilian CPAN authors
+version:             0.02
+abstract:            We are brazilian CPAN authors
 license:             perl
 author:              
     - Breno G. de Oliveira <garu@cpan.org>

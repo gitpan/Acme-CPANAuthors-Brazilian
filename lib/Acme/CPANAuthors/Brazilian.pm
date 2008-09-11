@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -11,7 +11,7 @@ use Acme::CPANAuthors::Register (
     ARVIEGAS    => 'Andre Rodrigues Viegas',
     BNEGRAO     => 'Bruno Negrao',
     BRASIL      => 'Sávio Menezes Sampaio',
-    CCELSO      => 'carlos celso de almeida',
+    CCELSO      => 'Carlos Celso de Almeida',
     CCMELO      => 'Carmo Crediney de Melo',
     COSTELA     => 'Leo Antunes',
     DAVIEIRA    => 'Denis Almeida Vieira Junior',
@@ -30,13 +30,14 @@ use Acme::CPANAuthors::Register (
     FRIGHETTI   => 'Fabiano Reese Righetti',
     GARU        => 'Breno G. de Oliveira',
     GMPASSOS    => 'Graciliano Monteiro Passos',
+    HODEL       => 'Paul Hodel',
     IZUT        => 'Igor Sutton',
     JEAN        => 'Jean Carlo',
     JOENIO      => 'Joenio Marques da Costa',
     KAUFMANN    => 'Rafael Kaufmann',
     KCARNUT     => 'Marco Carnut',
     LAFRAIA     => 'Daniel Lafraia',
-    LEANDRO     => 'Leandro Guimarães Faria Corcete DUTRA',
+    LEANDRO     => 'Leandro Guimarães Faria Corcete Dutra',
     LFAGUNDES   => 'Luis Henrique Cassis Fagundes',
     LMC         => 'Luis Motta Campos',
     LONEWOLF    => 'Edvaldo silva de Almeida Jr',
@@ -85,9 +86,9 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
 =head1 VERSION
 
-This document describes version 0.01 of Acme::CPANAuthors::Brazilian
+This document describes version 0.02 of Acme::CPANAuthors::Brazilian
 
-Este documento descreve a versão 0.01 do Acme::CPANAuthors::Brazilian
+Este documento descreve a versão 0.02 do Acme::CPANAuthors::Brazilian
 
 =head1 DESCRIPTION
 
