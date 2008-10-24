@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -30,6 +30,7 @@ use Acme::CPANAuthors::Register (
     FRIGHETTI   => 'Fabiano Reese Righetti',
     GARU        => 'Breno G. de Oliveira',
     GMPASSOS    => 'Graciliano Monteiro Passos',
+    GNUSTAVO    => 'Gustavo Leite de Mendonça Chaves',
     HODEL       => 'Paul Hodel',
     IZUT        => 'Igor Sutton',
     JEAN        => 'Jean Carlo',
@@ -86,9 +87,9 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
 =head1 VERSION
 
-This document describes version 0.02 of Acme::CPANAuthors::Brazilian
+This document describes version 0.03 of Acme::CPANAuthors::Brazilian
 
-Este documento descreve a versão 0.02 do Acme::CPANAuthors::Brazilian
+Este documento descreve a versão 0.03 do Acme::CPANAuthors::Brazilian
 
 =head1 DESCRIPTION
 

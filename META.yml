@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Acme-CPANAuthors-Brazilian
-version:             0.02
+version:             0.03
 abstract:            We are brazilian CPAN authors
 license:             perl
 author:              
