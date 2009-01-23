@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -44,6 +44,7 @@ use Acme::CPANAuthors::Register (
     LONEWOLF    => 'Edvaldo silva de Almeida Jr',
     LORN        => 'Lindolfo Rodrigues de Oliveira Neto',
     MAGO        => 'Marco Lima',
+    MANTOVANI   => 'Daniel de Oliveira Mantovani',
     MDA         => "Marco A P D'Andrade",
     MONSENHOR   => 'Ricardo Luiz Filipo',
     NFERRAZ     => 'Nelson Ferraz',
@@ -87,9 +88,9 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
 =head1 VERSION
 
-This document describes version 0.03 of Acme::CPANAuthors::Brazilian
+This document describes version 0.04 of Acme::CPANAuthors::Brazilian
 
-Este documento descreve a versão 0.03 do Acme::CPANAuthors::Brazilian
+Este documento descreve a versão 0.04 do Acme::CPANAuthors::Brazilian
 
 =head1 DESCRIPTION
 
