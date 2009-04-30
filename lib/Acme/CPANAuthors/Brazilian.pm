@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -60,6 +60,7 @@ use Acme::CPANAuthors::Register (
     TERCEIRO    => 'Antonio S. de A. Terceiro',
     THUNDERA    => 'Mauro Ribeiro',
     TSV         => 'Thiago de Souza Vieira',
+	WREIS       => 'Wallace Reis',
 );
 
 1;
@@ -88,9 +89,9 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
 =head1 VERSION
 
-This document describes version 0.04 of Acme::CPANAuthors::Brazilian
+This document describes version 0.05 of Acme::CPANAuthors::Brazilian
 
-Este documento descreve a versão 0.04 do Acme::CPANAuthors::Brazilian
+Este documento descreve a versão 0.05 do Acme::CPANAuthors::Brazilian
 
 =head1 DESCRIPTION
 
@@ -124,5 +125,3 @@ This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
 
 Este programa é software livre; você pode redistribuí-lo e/ou modificá-lo sob os mesmo termos do Perl.
-
-=cut
