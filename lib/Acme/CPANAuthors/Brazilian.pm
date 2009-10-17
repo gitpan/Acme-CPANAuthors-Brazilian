@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -49,6 +49,7 @@ use Acme::CPANAuthors::Register (
     MONSENHOR   => 'Ricardo Luiz Filipo',
     NFERRAZ     => 'Nelson Ferraz',
     NILSONSFJ   => 'Nilson Santos Figueiredo Júnior',
+    NUBA        => 'Nuba Rodrigues Princigalli',
     RECSKY      => 'Frederico Recsky',
     REDOX       => 'Andre',
     RMALAFAIA   => 'Ricardo Malafaia Senra Barros',
@@ -61,6 +62,7 @@ use Acme::CPANAuthors::Register (
     THUNDERA    => 'Mauro Ribeiro',
     TSV         => 'Thiago de Souza Vieira',
 	WREIS       => 'Wallace Reis',
+    WORM        => 'Joner Cyrre Worm',
 );
 
 1;
@@ -89,9 +91,9 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
 =head1 VERSION
 
-This document describes version 0.05 of Acme::CPANAuthors::Brazilian
+This document describes version 0.06 of Acme::CPANAuthors::Brazilian
 
-Este documento descreve a versão 0.05 do Acme::CPANAuthors::Brazilian
+Este documento descreve a versão 0.06 do Acme::CPANAuthors::Brazilian
 
 =head1 DESCRIPTION
 
