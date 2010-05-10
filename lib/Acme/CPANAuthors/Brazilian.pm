@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.06';
+our $VERSION = '0.07';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
     ARVIEGAS    => 'Andre Rodrigues Viegas',
     BNEGRAO     => 'Bruno Negrao',
     BRASIL      => 'Sávio Menezes Sampaio',
+    CAPOEIRAB   => 'Chase Whitener',
     CCELSO      => 'Carlos Celso de Almeida',
     CCMELO      => 'Carmo Crediney de Melo',
     COSTELA     => 'Leo Antunes',
@@ -18,6 +19,7 @@ use Acme::CPANAuthors::Register (
     DFROZ       => 'Daniel Froz Costa',
     DONATOAZ    => 'Donato Azevedo',
     DRUOSO      => 'Daniel Ruoso',
+    DSTH        => 'Daniel S. T. Hughes',
     EDENC       => 'Eden Cardim',
     EMARQUES    => 'Éverton da Silva Marques',
     ENHERING    => 'Eduardo N. Hering',
@@ -54,6 +56,7 @@ use Acme::CPANAuthors::Register (
     REDOX       => 'Andre',
     RMALAFAIA   => 'Ricardo Malafaia Senra Barros',
     RSD         => 'Raul Dias',
+    RUSSOZ      => 'Alexei Znamensky',
     RVR         => 'Renan Valente Rangel',
     SHONORIO    => 'Solli Moreira Honorio',
     SVITENTI    => 'Sandro Dias Pinto Vitenti',
