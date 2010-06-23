@@ -3,12 +3,13 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.07';
+our $VERSION = '0.08';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
     ARFREITAS   => 'Alceu Rodrigues de Freitas Junior',
     ARVIEGAS    => 'Andre Rodrigues Viegas',
+    BBUSS       => 'Bruno Caricchio Buss',
     BNEGRAO     => 'Bruno Negrao',
     BRASIL      => 'Sávio Menezes Sampaio',
     CAPOEIRAB   => 'Chase Whitener',
