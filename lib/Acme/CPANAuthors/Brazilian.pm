@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -50,6 +50,7 @@ use Acme::CPANAuthors::Register (
     MANTOVANI   => 'Daniel de Oliveira Mantovani',
     MDA         => "Marco A P D'Andrade",
     MONSENHOR   => 'Ricardo Luiz Filipo',
+    MOSCONI     => 'Rodrigo Mosconi',
     NFERRAZ     => 'Nelson Ferraz',
     NILSONSFJ   => 'Nilson Santos Figueiredo Júnior',
     NUBA        => 'Nuba Rodrigues Princigalli',
@@ -125,7 +126,7 @@ Breno G. de Oliveira E<lt>garu at cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2008 by Breno G. de Oliveira.
+Copyright (C) 2008-2010 by Breno G. de Oliveira.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
