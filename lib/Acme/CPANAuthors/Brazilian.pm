@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.09';
+our $VERSION = '0.10';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -32,6 +32,7 @@ use Acme::CPANAuthors::Register (
     FGLOCK      => 'Flávio Soibelmann Glock',
     FRIGHETTI   => 'Fabiano Reese Righetti',
     GARU        => 'Breno G. de Oliveira',
+    GEOJS       => 'Geovanny Junio',
     GMPASSOS    => 'Graciliano Monteiro Passos',
     GNUSTAVO    => 'Gustavo Leite de Mendonça Chaves',
     HODEL       => 'Paul Hodel',
@@ -56,6 +57,7 @@ use Acme::CPANAuthors::Register (
     NUBA        => 'Nuba Rodrigues Princigalli',
     RECSKY      => 'Frederico Recsky',
     REDOX       => 'Andre',
+    RENATOCRON  => 'Renato Santos de Souza',
     RMALAFAIA   => 'Ricardo Malafaia Senra Barros',
     RSD         => 'Raul Dias',
     RUSSOZ      => 'Alexei Znamensky',
