@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -57,7 +57,7 @@ use Acme::CPANAuthors::Register (
     NUBA        => 'Nuba Rodrigues Princigalli',
     RECSKY      => 'Frederico Recsky',
     REDOX       => 'Andre',
-    RENATOCRON  => 'Renato Santos de Souza',
+    RENTOCRON   => 'Renato Santos de Souza',
     RMALAFAIA   => 'Ricardo Malafaia Senra Barros',
     RSD         => 'Raul Dias',
     RUSSOZ      => 'Alexei Znamensky',
@@ -68,7 +68,7 @@ use Acme::CPANAuthors::Register (
     TERCEIRO    => 'Antonio S. de A. Terceiro',
     THUNDERA    => 'Mauro Ribeiro',
     TSV         => 'Thiago de Souza Vieira',
-	WREIS       => 'Wallace Reis',
+    WREIS       => 'Wallace Reis',
     WORM        => 'Joner Cyrre Worm',
 );
 
