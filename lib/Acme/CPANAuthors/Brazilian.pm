@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -35,6 +35,7 @@ use Acme::CPANAuthors::Register (
     GEOJS       => 'Geovanny Junio',
     GMPASSOS    => 'Graciliano Monteiro Passos',
     GNUSTAVO    => 'Gustavo Leite de Mendonça Chaves',
+    HERNAN      => 'Hernan Lopes',
     HODEL       => 'Paul Hodel',
     IZUT        => 'Igor Sutton',
     JEAN        => 'Jean Carlo',
