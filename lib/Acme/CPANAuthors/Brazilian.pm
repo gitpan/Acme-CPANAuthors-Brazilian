@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -50,6 +50,7 @@ use Acme::CPANAuthors::Register (
     LORN        => 'Lindolfo Rodrigues de Oliveira Neto',
     MAGO        => 'Marco Lima',
     MANTOVANI   => 'Daniel de Oliveira Mantovani',
+    MARCIO      => 'Marcio de Souza Ferreira',
     MDA         => "Marco A P D'Andrade",
     MONSENHOR   => 'Ricardo Luiz Filipo',
     MOSCONI     => 'Rodrigo Mosconi',
