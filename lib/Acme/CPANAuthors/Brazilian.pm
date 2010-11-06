@@ -3,7 +3,7 @@ package Acme::CPANAuthors::Brazilian;
 use strict;
 use warnings;
 
-our $VERSION = '0.13';
+our $VERSION = '0.14';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -16,6 +16,7 @@ use Acme::CPANAuthors::Register (
     CCELSO      => 'Carlos Celso de Almeida',
     CCMELO      => 'Carmo Crediney de Melo',
     COSTELA     => 'Leo Antunes',
+    DANIELM     => 'Daniel Mascarenhas',
     DAVIEIRA    => 'Denis Almeida Vieira Junior',
     DFROZ       => 'Daniel Froz Costa',
     DONATOAZ    => 'Donato Azevedo',
