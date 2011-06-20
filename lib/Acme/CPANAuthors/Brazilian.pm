@@ -2,14 +2,16 @@ package Acme::CPANAuthors::Brazilian;
 
 use strict;
 use warnings;
+use utf8;
 
-our $VERSION = '0.14';
+our $VERSION = '0.15';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
     ARFREITAS   => 'Alceu Rodrigues de Freitas Junior',
     ARVIEGAS    => 'Andre Rodrigues Viegas',
     BBUSS       => 'Bruno Caricchio Buss',
+    BLABOS      => 'Wesley Dal`Col Von Doelinger',
     BNEGRAO     => 'Bruno Negrao',
     BRASIL      => 'Sávio Menezes Sampaio',
     CAPOEIRAB   => 'Chase Whitener',
@@ -78,6 +80,7 @@ use Acme::CPANAuthors::Register (
 1;
 
 __END__
+=encoding utf8
 
 =head1 NAME
 
@@ -98,12 +101,6 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
    my $url      = $authors->avatar_url('GARU');
    my $kwalitee = $authors->kwalitee('FCO');
 
-
-=head1 VERSION
-
-This document describes version 0.06 of Acme::CPANAuthors::Brazilian
-
-Este documento descreve a versão 0.06 do Acme::CPANAuthors::Brazilian
 
 =head1 DESCRIPTION
 
@@ -131,7 +128,7 @@ Breno G. de Oliveira E<lt>garu at cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2008-2010 by Breno G. de Oliveira.
+Copyright (C) 2008-2011 by Breno G. de Oliveira.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
