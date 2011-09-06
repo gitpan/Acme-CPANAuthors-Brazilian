@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.17';
+our $VERSION = '0.18';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -59,6 +59,7 @@ use Acme::CPANAuthors::Register (
     MDA         => "Marco A P D'Andrade",
     MONSENHOR   => 'Ricardo Luiz Filipo',
     MOSCONI     => 'Rodrigo Mosconi',
+    NATTIS      => 'Udlei D. R. Nattis',
     NFERRAZ     => 'Nelson Ferraz',
     NILSONSFJ   => 'Nilson Santos Figueiredo Júnior',
     NUBA        => 'Nuba Rodrigues Princigalli',
