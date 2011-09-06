@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.16';
+our $VERSION = '0.17';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
@@ -25,6 +25,7 @@ use Acme::CPANAuthors::Register (
     DRUOSO      => 'Daniel Ruoso',
     DSTH        => 'Daniel S. T. Hughes',
     EDENC       => 'Eden Cardim',
+    EDUARDOW    => 'Eduardo Perotta de Almeida',
     EMARQUES    => 'Éverton da Silva Marques',
     ENHERING    => 'Eduardo N. Hering',
     ERANGEL     => 'Eduardo Rangel Thompson',
@@ -70,6 +71,7 @@ use Acme::CPANAuthors::Register (
     RVR         => 'Renan Valente Rangel',
     SHONORIO    => 'Solli Moreira Honorio',
     SVITENTI    => 'Sandro Dias Pinto Vitenti',
+    SYP         => 'Stanislaw Pusep',
     TBR         => 'Thiago Berlitz Rondon',
     TERCEIRO    => 'Antonio S. de A. Terceiro',
     THUNDERA    => 'Mauro Ribeiro',
