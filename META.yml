@@ -21,4 +21,4 @@ requires:
   Acme::CPANAuthors: 0
   Test::More: 0.47
   Test::UseAllModules: 0
-version: 0.18
+version: 0.19
