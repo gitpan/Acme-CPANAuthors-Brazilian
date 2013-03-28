@@ -4,12 +4,13 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.22';
+our $VERSION = '0.23';
 
 use Acme::CPANAuthors::Register (
     ACPGUEDES => 'Aureliano Coelho Proença Guedes',
     AGUIMARA  => 'Andre Guimaraes',
     ALEBORBA  => 'Alexandre Alves Borba',
+    ALVARO    => 'Álvaro Luiz Andrade',
     ARFREITAS => 'Alceu Rodrigues de Freitas Junior',
     ARVIEGAS  => 'Andre Rodrigues Viegas',
     BBUSS     => 'Bruno Caricchio Buss',
