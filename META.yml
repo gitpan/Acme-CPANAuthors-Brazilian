@@ -20,4 +20,4 @@ no_index:
 requires:
   Acme::CPANAuthors: '0'
   Test::More: '0.47'
-version: '0.24'
+version: '0.25'
