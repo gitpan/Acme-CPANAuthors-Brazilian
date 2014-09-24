@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.25';
+our $VERSION = '0.26';
 
 use Acme::CPANAuthors::Register (
     ACPGUEDES => 'Aureliano Coelho Proença Guedes',
@@ -40,6 +40,7 @@ use Acme::CPANAuthors::Register (
     FGLOCK    => 'Flávio Soibelmann Glock',
     FRIGHETTI => 'Fabiano Reese Righetti',
     GABIRU    => 'Gabriel Andrade de Santana',
+    GABRIEL   => 'Gabriel Vieira',
     GARU      => 'Breno G. de Oliveira',
     GEOJS     => 'Geovanny Junio',
     GMPASSOS  => 'Graciliano Monteiro Passos',
